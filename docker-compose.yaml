@@ -10,6 +10,12 @@ services:
       - 5672:5672
       - 15672:15672
 
+  frontend: 
+    build: ./video-thumbnail-generator-frontend
+    restart: unless-stopped
+    ports:
+      - 3000:5000
+
   controller:
     hostname: controller
     build: ./video-thumbnail-web-controller

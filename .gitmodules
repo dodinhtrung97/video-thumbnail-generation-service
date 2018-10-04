@@ -10,3 +10,7 @@
 [submodule "video-thumbnail-web-controller"]
 	path = video-thumbnail-web-controller
 	url = https://github.com/dodinhtrung97/video-thumbnail-web-controller.git
+[submodule "video-thumbnail-generator-frontend"]
+	path = video-thumbnail-generator-frontend
+	url = https://github.com/dodinhtrung97/video-thumbnail-generator-frontend.git
+	branch = master
