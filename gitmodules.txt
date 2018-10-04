@@ -1,0 +1,12 @@
+[submodule "simple-object-storage"]
+	path = simple-object-storage
+	url = https://github.com/dodinhtrung97/simple-object-storage.git
+[submodule "video-to-gif-generator"]
+	path = video-to-gif-generator
+	url = https://github.com/dodinhtrung97/video-to-gif-generator.git
+[submodule "RabbitMQ-Worker"]
+	path = RabbitMQ-Worker
+	url = https://github.com/dodinhtrung97/RabbitMQ-Worker.git
+[submodule "video-thumbnail-web-controller"]
+	path = video-thumbnail-web-controller
+	url = https://github.com/dodinhtrung97/video-thumbnail-web-controller.git
