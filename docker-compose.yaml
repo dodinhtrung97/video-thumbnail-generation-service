@@ -20,7 +20,7 @@ services:
       - rabbit
     environment:
       - RABBIT_HOST=rabbit
-      - STORAGE_HOST=storage
+      - STORAGE_HOST=root
 
   thumbnail:
     build: ./video-to-gif-generator
